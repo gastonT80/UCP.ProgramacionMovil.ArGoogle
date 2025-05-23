@@ -1,0 +1,8 @@
+D:/Movil/AR/GoogleAr/.utmp/RelWithDebInfo/376w5i4h/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Movil/AR/GoogleAr/.utmp/RelWithDebInfo/376w5i4h/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/Movil/AR/GoogleAr/.utmp/RelWithDebInfo/376w5i4h/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+D:/Movil/AR/GoogleAr/.utmp/RelWithDebInfo/376w5i4h/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+D:/Movil/AR/GoogleAr/.utmp/RelWithDebInfo/376w5i4h/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
+D:/Movil/AR/GoogleAr/.utmp/RelWithDebInfo/376w5i4h/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/Movil/AR/GoogleAr/.utmp/RelWithDebInfo/376w5i4h/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+D:/Movil/AR/GoogleAr/.utmp/RelWithDebInfo/376w5i4h/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
